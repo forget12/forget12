@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### <h1>\<Hello,world! /\> 👋<h1/>
+### <h1>\<Hello,world! /\> 👋
 
 <!--
 **Christina-JK/Christina-JK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,9 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<br/>
-<br/>
-<br/>
+
 <br/>
 <br/>
 <br/>
@@ -26,7 +24,7 @@ Here are some ideas to get you started:
 <br/>
 <br/>
   
-My ![Visitor Count](https://profile-counter.glitch.me/Christmas/count.svg) Visitor
+ My ![Visitor Count](https://profile-counter.glitch.me/Christmas/count.svg) Visitor
 <hr/>
 <br/>
 <br/>
@@ -35,7 +33,7 @@ My ![Visitor Count](https://profile-counter.glitch.me/Christmas/count.svg) Visit
 <br/>
 <br/>
   
-My skill set
+ My skill set
 <hr/>
 
 ![decription](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
