@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <br/>
   
  My ![Visitor Count](https://profile-counter.glitch.me/Christmas/count.svg) Visitor
-<hr/>
+
 <br/>
 <br/>
 <br/>
